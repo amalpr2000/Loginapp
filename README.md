@@ -1,16 +1,18 @@
-# loginapp
+# Loginapp
 
-A new Flutter project.
+Made with flutter   
+Sample Login App
 
-## Getting Started
+## App 
 
-This project is a starting point for a Flutter application.
+![Login App Demo](https://user-images.githubusercontent.com/53758323/212460442-e69c62c1-2059-4907-97b1-7d5e534b6cd0.png)
 
-A few resources to get you started if this is your first Flutter project:
+To access home page 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Username - amal
+- Password - 123
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About this app 
+
+This is a sample Login app,which has a login screen and when the user login with correct details the home page is displayed.The homepage has a signout button, when clicked it is redirected to the login page.When the user once login the will redirect directlt to homepage unless he logout.
+
