@@ -4,8 +4,9 @@ Made with flutter
 Sample Login App
 
 ## App 
-
-![Login App Demo](https://user-images.githubusercontent.com/53758323/212460442-e69c62c1-2059-4907-97b1-7d5e534b6cd0.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53758323/212490806-d93618e8-7925-45e6-bb1c-7a590756f77d.png" style=" width:500px ; height:500px "
+</p>
 
 To access home page 
 
