@@ -14,5 +14,5 @@ To access home page
 
 ## About this app 
 
-This is a sample Login app,which has a login screen and when the user login with correct details the home page is displayed.The homepage has a signout button, when clicked it is redirected to the login page.When the user once login the will redirect directly to homepage unless he logout.
+This is a sample Login app,which has a login screen and when the user login with correct details the home page is displayed.The homepage has a signout button, when clicked it is redirected to the login page.When the user  login  once, it will redirect directly to homepage unless he logout.
 
